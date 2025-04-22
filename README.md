@@ -14,7 +14,7 @@ An interactive Text-to-SQL web application that allows users to ask natural lang
 ## 📦 Tech Stack
 
 - **Backend**: Python, LangChain, SQLite (Chinook DB)
-- **LLM Integration**: Groq API (Mixtral-8x7B)
+- **LLM Integration**: Groq API (llama3-70b-8192)
 - **Frontend/UI**: Streamlit
 - **Visualization**: Pandas, Matplotlib, Plotly
 
