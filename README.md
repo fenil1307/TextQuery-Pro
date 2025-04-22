@@ -22,5 +22,5 @@ An interactive Text-to-SQL web application that allows users to ask natural lang
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/TextQuery-Pro.git
+git clone https://github.com/fenil1307/TextQuery-Pro.git
 cd TextQuery-Pro
