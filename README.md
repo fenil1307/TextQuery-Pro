@@ -5,7 +5,7 @@ An interactive Text-to-SQL web application that allows users to ask natural lang
 
 ## 🚀 Features
 
-- 🧠 Text-to-SQL using LLM (Groq + Mixtral)
+- 🧠 Text-to-SQL using LLM (Groq)
 - 📊 Visualization of results using Bar, Pie, and Line charts
 - 📥 Download query results as CSV or Excel
 - 📚 View database schema
